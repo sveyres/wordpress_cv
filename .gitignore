@@ -2,6 +2,10 @@
 /wp-content/themes/twenty*
 /wp-content/upgrade
 /wp-content/uploads
+/wp-content/plugins/contact-form-7
+/wp-content/plugins/jetpack/
+wp-content/plugins/tac/
+wp-content/plugins/theme-check/
 /sitemap.*
 /wp-config.php
 *.sql
